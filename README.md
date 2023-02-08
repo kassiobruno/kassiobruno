@@ -10,5 +10,5 @@ Web developer in training, eager to learn and offer new solutions!
 ## 🔗 Links
 
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kaassio1/)
-[![instagram](https://img.shields.io/badge/Instagram-DCDCDC?style=for-the-badge&logo=instagram&logoColor=purple)](https://instagram.com/kassiobruno1)
+[![instagram](https://img.shields.io/badge/Instagram-DCDCDC?style=for-the-badge&logo=instagram&logoColor=purple)](https://instagram.com/kassioborge.s)
 
