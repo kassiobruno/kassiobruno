@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @kassiobruno1.
 - 👀 I’m interested in web and mobile develompent.
-- 🌱 I’m currently learning JavaScript, React, NextJS and all de popular front-end frameworks.
+- 🌱 I’m currently learning JavaScript, React, NextJS and all the popular front-end frameworks.
 - 💞️ I’m looking to collaborate on voluntaries projects to get more experience with front-end develompent.
 
 
